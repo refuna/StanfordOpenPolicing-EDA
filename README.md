@@ -2,9 +2,12 @@
 
 ## Overview
 
-The **Stanford Open Policing Project** aims to understand police practices by analyzing public data on traffic stops. The project includes a dataset containing millions of traffic stop records from across the United States. By analyzing this dataset, we aim to uncover trends related to racial disparities, reasons for stops, and outcomes such as arrests or citations. 
+This analysis is part of a Kaggle competition aimed at fostering new insights into policing practices which aims to understand police practices by analyzing traffic stops data. The project includes a dataset containing millions of traffic stop records from across the United States. By analyzing this dataset, we aim to uncover trends related to racial disparities, reasons for stops, and outcomes such as arrests or citations. 
 
-This analysis is part of a Kaggle competition aimed at fostering new insights into policing practices using data science techniques.
+## Context
+On a typical day in the United States, police officers make more than 50,000 traffic stops. Our team is gathering, analyzing, and releasing records from millions of traffic stops by law enforcement agencies across the country. Our goal is to help researchers, journalists, and policymakers investigate and improve interactions between police and the public. This dataset includes 9 Mb of stop data from Rhode Island, covering all of 2013 onwards. Please see the data readme for the full details of the available fields.
+
+ using data science techniques.
 
 ## Dataset
 
